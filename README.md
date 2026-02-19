@@ -84,5 +84,4 @@ Teste primeiro com:
 ---
 
 ## 📸 Exemplo de Execução
-
-![Execução do Scanner](docs/execution-example.png)
+(docs/execution-example.png)
