@@ -21,6 +21,19 @@ gerando logs e relatório em formato JSON.
 
 ---
 
+## 📂 Estrutura do Projeto
+
+
+mini-soc-lab-port-scanner/
+│── scanner.py        # Script principal do scanner
+│── report.json       # Relatório gerado automaticamente
+│── scan.log          # Logs da execução
+│── requirements.txt  # Dependências do projeto
+│── README.md         # Documentação
+│── docs/             # Imagens e evidências de execução
+
+---
+
 ## 🚀 Como Executar
 
 1. Clone o repositório:
@@ -52,6 +65,20 @@ Exibição no terminal das portas abertas
 Arquivo report.json com resultado estruturado
 
 Arquivo scan.log com logs da execução
+
+📑 Exemplo de Estrutura do report.json
+
+```json
+{
+    "target": "127.0.0.1",
+    "open_ports": [22, 80],
+    "timestamp": "2026-02-19T14:32:10"
+
+}
+```
+
+
+
 
 🔒 Observação Importante
 
