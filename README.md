@@ -33,7 +33,8 @@ git clone https://github.com/Paula-Tech007/mini-soc-lab-port-scanner.git
 Entre na pasta do projeto:
 
 ```bash
-cd mini-soc-port-scanner
+cd mini-soc-lab-port-scanner
+
 ```
 
 Execute o script:
@@ -87,4 +88,5 @@ Teste primeiro com:
 ---
 
 ## 📸 Exemplo de Execução
-(docs/execution-example.png)
+![Execução do Scanner](docs/Teste.png)
+
