@@ -26,7 +26,8 @@ gerando logs e relatório em formato JSON.
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/mini-soc-port-scanner.git
+git clone https://github.com/Paula-Tech007/mini-soc-lab-port-scanner.git
+
 ```
 
 Entre na pasta do projeto:
@@ -58,12 +59,14 @@ e testes autorizados.
 
 ---
 
-## 📈 Próximas Melhorias
+## 📈 Melhorias Implementadas
 
-- Implementação de multithreading
-- Scan por range de portas
-- Containerização com Docker
-- Exportação para CSV
+- ✔ Scanner TCP multithreaded
+- ✔ Scan customizado por range de portas
+- ✔ Logging estruturado
+- ✔ Geração automática de relatório em JSON
+
+
 
 ---
 
